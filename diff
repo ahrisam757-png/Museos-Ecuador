@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Museos del Ecuador — Cultura y Patrimonio</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+
+<header>
+    <h1>Museos del Ecuador</h1>
+    <nav>
+        <a href="index.html">Inicio</a>
+        <a href="mapa.html">Mapa de Museos</a>
+    </nav>
+</header>
+
+<section class="contenido">
+    <h2>Resumen General</h2>
+
+    <p>
+        El Ecuador posee una amplia red de museos que conservan, estudian y difunden
+        el patrimonio cultural, histórico, arqueológico y artístico del país.
+        Esta red es un componente fundamental del sistema nacional de bienes culturales,
+        contribuyendo a la educación, identidad y memoria colectiva.
+    </p>
+
+    <h3>Cantidad de Museos en el Ecuador</h3>
+    <p>
+        Hasta la fecha, existen más de <strong>150 museos y espacios expositivos</strong>
+        reconocidos oficialmente en el territorio ecuatoriano, distribuidos en las
+        principales ciudades y regiones: Sierra, Costa, Amazonía y Región Insular.
+    </p>
+
+    <h3>Clasificación Principal</h3>
+    <p>
+        Los museos del Ecuador se dividen en categorías según su enfoque temático,
+        su origen institucional y su función social. A continuación se describen
+        las principales:
+    </p>
+
+    <ul>
+        <li><strong>Museos Arqueológicos:</strong> Conservan vestigios precolombinos y
+        materiales líticos, cerámicos y textiles ancestrales (p.ej., Museo Pumapungo).</li>
+
+        <li><strong>Museos de Arte:</strong> Exhiben colecciones pictóricas, escultóricas y
+        contemporáneas (p.ej., Museo de Arte Moderno de Cuenca).</li>
+
+        <li><strong>Museos Históricos:</strong> Dedicados a eventos, biografías o períodos
+        relevantes de la historia nacional (p.ej., Museo Casa de Sucre).</li>
+
+        <li><strong>Museos Científicos y Técnicos:</strong> Enfocados en la difusión
+        científica, tecnología y naturalismo (p.ej., Museo de Ciencias Naturales).</li>
+
+        <li><strong>Museos Comunitarios y Locales:</strong> Gestionados por comunidades
+        indígenas o asociaciones culturales que preservan saberes locales.</li>
+    </ul>
+
+    <h3>Importancia Cultural y Educativa</h3>
+    <p>
+        Los museos en Ecuador juegan un rol estratégico en la preservación del
+        patrimonio tangible e intangible. Se han convertido en plataformas de
+        investigación, educación formal e informal, y turismo cultural sostenible.
+        Además, integran programas educativos dirigidos a estudiantes, familias
+        y visitantes internacionales.
+    </p>
+
+    <h3>Objetivos del Proyecto</h3>
+    <p>
+        Este sitio web interactivo tiene como finalidad:
+    </p>
+    <ol>
+        <li>Ofrecer una guía geoespacial accesible de museos en Ecuador.</li>
+        <li>Proveer información veraz y actualizada de cada museo.</li>
+        <li>Estimular el interés por el patrimonio cultural ecuatoriano.</li>
+        <li>Facilitar rutas educativas y turísticas personalizadas.</li>
+    </ol>
+
+    <p>
+        Navega al mapa de museos para explorar las ubicaciones, descripciones y
+        enlaces detallados de cada institución.
+    </p>
+</section>
+
+<footer>
+    <p>Proyecto educativo sobre Museos del Ecuador — 2026</p>
+</footer>
+
+</body>
+</html>
